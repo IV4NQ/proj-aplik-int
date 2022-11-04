@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+}
+header {
+    background-color: lightgray;
+    text-align: center;
+}
+#wstep {
+    text-align: center;
+}
+img {
+    width: 200px;
+}
+td,tr,table,th {
+    border: 1px black solid;
+    margin: 0px;
+    border-collapse:collapse;
+    background-color:rgba(229,236,243,255);
+
+}
+#tekst {
+    width: 500px;
+    background-color: rgba(229,236,243,255);
+    padding: 10px;
+
+}

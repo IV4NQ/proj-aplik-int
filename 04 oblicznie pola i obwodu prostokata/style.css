@@ -1,0 +1,16 @@
+body {
+    background-color: grey;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 50px;
+}
+footer {
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+section {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+}
