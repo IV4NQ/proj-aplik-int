@@ -19,4 +19,5 @@ function draw() {
     arc(50, 55, 70, 70, PI, PI + QUARTER_PI);
     arc(50, 55, 80, 80, PI + QUARTER_PI, TWO_PI);
 
+
 }
