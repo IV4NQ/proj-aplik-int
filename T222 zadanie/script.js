@@ -6,6 +6,6 @@ function potega(x,y){
     return wynik;
 }
 let x=2;
-let y=2;
+let y=3;
 let out = potega(x,y)
 document.write(`${x}<sup>${y}</sup> = ${out}`)
