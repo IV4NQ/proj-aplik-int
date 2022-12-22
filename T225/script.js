@@ -6,22 +6,18 @@ const wynik = document.querySelector('#wynik');
 btn.addEventListener('click', function() {
     let a = parseInt(liczba_a.value)
     let b = parseInt(liczba_b.value)
-sprawdz(a,b)
-    function sprawdz(a,b){
-        if(a>b){
-            wynik.innerHTML =  ` Liczba a, która wynosi: ${a} jest większa od liczby b, która wynosi: ${b}`
-        }
-        else if(b>a) {
-            wynik.innerHTML =  ` Liczba b, która wynosi: ${b} jest większa od liczby a, która wynosi:  ${a}`
-        }
-        else {
-            wynik.innerHTML =  `Liczba a równa ${a} oraz liczba b równa ${b} są równe`
-        }
-
-
+    NWD(a,b);
+    function NWD(a,b)
+    {
+        while(a!==b)
+            if(a>b) {
+                a -= b; //lub a = a - b;
+            }else{
+                b-=a; //lub b = b-a
+        wynik.innerHTML = a; // lub b - obie zmienne przechowują wynik NWD(a,b)
     }
 
-
+    }
 
 
 })
