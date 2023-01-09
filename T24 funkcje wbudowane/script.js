@@ -10,13 +10,13 @@ const btn4  = document.querySelector('#button4');
 document.forms[0].addEventListener("submit", function(event) {
     event.preventDefault();
 
-    let date1 = new Date(document.getElementById("date1").value);
-    let date2 = new Date(document.getElementById("date2").value);
+    let data1 = new Date(document.getElementById("data1").value);
+    let data2 = new Date(document.getElementById("data2").value);
 
-    let diffInMilliseconds = Math.abs(date1 - date2);
+    let diffInMilliseconds = Math.abs(data1 - data2);
     let diffInDays = Math.ceil(diffInMilliseconds / (1000 * 60 * 60 * 24));
 
-    document.getElementById("result").innerHTML = diffInDays + " dni";
+    document.getElementById("wynikdat").innerHTML = diffInDays + " dni";
 });
 
 
