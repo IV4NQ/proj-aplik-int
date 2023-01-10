@@ -1,18 +1,21 @@
+const wynik = document.querySelector('#wynik');
+const btn = document.querySelector('button');
+btn.addEventListener('click', function(){
+    const uro = new Date(document.querySelector('#uro').value);
+    const uro2 = new Date(document.querySelector('#uro2').value);
+    const imie = document.querySelector('#imie').value;
+    const imie2 = document.querySelector('#imie2').value;
 
-
-
-const date1 = new Date("22 March 2015");
-const date2 = new Date("10 September 2010");
-const date3 = new Date("10 September 2010");
-
-console.log(date1 < date2);
-
-console.log(date2.getTime() === date3.getTime());
-
-const birthdate = new Date(USER.birthdate);
-const today = new Date();
-
-if(today.getMonth() === birthdate.getMonth() && today.getDate() === birthdate.getDate()) {
-    console.log("Dzisiaj urodziny!");
-}
-// porównywanie daty
+    if (uro.getTime() < uro2.getTime())
+    {
+        wynik.innerHTML = `${imie} jest starszy`;
+    }
+    else if(uro.getTime() > uro2.getTime())
+    {
+        wynik.innerHTML = `${imie2} jest starszy`;
+    }
+    else
+    {
+        wynik.innerHTML = `${imie} i ${imie2} mają tyle samo lat`;
+    }
+})
