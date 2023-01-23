@@ -1,0 +1,47 @@
+<!--Przykład 3.44 -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>t25 obiekty</title>
+</head>
+<header>
+  <h1>Obiekty</h1>
+  <h2>Autor: Łukasz Iwaniec 2ir_02</h2>
+  <hr>
+</header>
+<body>
+<button id = "obiekt1">Pokaz obiekt osoba</button>
+<br>
+<button id = "obiekt2">Pokaz obiekt samochod</button>
+<script>
+
+  const btn1 = document.querySelector('#obiekt1');
+  const btn2 = document.querySelector('#obiekt2');
+  btn1.addEventListener('click', function(){
+
+  let osoba = {
+    nazwisko: "Nowacki",
+    imie: "Marek",
+    zawod: "informatyk",
+    pokaz: function() {
+      document.write(this.nazwisko + ' ' + this.imie + '<br>');
+    }
+  };
+  osoba.pokaz();
+  })
+  //---------------------
+  btn2.addEventListener('click', function(){
+  let car = {
+    Marka: "Ford",
+    Model: "Mondeo",
+    Rok_prod: "2008",
+    wyswietl: function() {
+      document.write('Marka: ' + this.Marka + '<br>Model: ' + this.Model + '<br>Rok produkcji: ' + this.Rok_prod);
+    }
+  };
+  car.wyswietl();
+  })
+</script>
+</body>
+</html>

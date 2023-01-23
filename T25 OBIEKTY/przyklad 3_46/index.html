@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<header>
+  <h1>Przyklad 3.46</h1>
+  <h2>Autor: Łukasz Iwaniec 2ir_02</h2>
+  <hr>
+</header>
+<body>
+
+<script>
+  // Przyklad 3.46
+  function Klient(nazwisko_k, imie_k, zawod_k) {
+    this.nazwisko = nazwisko_k;
+    this.imie = imie_k;
+    this.zawod = zawod_k;
+    this.wypisz = function() {
+      alert(this.nazwisko + ' ' + this.imie);
+    }
+    this.info = function() {
+      document.write(`Mam na imie ${this.imie}, na nazwisko ${this.nazwisko}. Mój zawód to ${this.zawod}<br>`)
+    }
+  }
+  //Przykład 3.47
+  var osoba1 = new Klient('Kowalski', 'Jan', 'kierowca');
+  var osoba2 = new Klient('Nowak', 'Anna', 'sekretarka');
+
+  function zwierz(typ,imie, wlasciciel) {
+    this.typ = typ
+    this.imie = imie
+    this.imie_w = wlasciciel.imie
+    this.nazwisko_w = wlasciciel.nazwisko
+    this.info = function(){
+      document.write(`Zwierze to ${this.typ}. Wabi się ${this.imie}, Właścicielem zwierzęcia jest ${this.imie_w} ${this.nazwisko_w}.<br><br>`)
+    }
+  }
+  var pies = new zwierz('pies', 'Burek', osoba1)
+  pies.info()
+  osoba1.wypisz()
+  osoba2.info()
+</script>
+</body>
+</html>
