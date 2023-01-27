@@ -20,7 +20,8 @@ class Czolg {
         {
             document.write("Czołg wystrzelił jeden pocisk! <br>");
             this.Ammunicja--;
-        } else
+        }
+        else
         {
             document.write("Czołg nie może wystrzelić ze względu na brak amunicji. Doładuj i spróbuj ponownie! <br>");
         }
