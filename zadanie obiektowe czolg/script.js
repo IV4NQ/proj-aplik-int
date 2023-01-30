@@ -10,7 +10,7 @@ class Czolg {
 
     koloruj = function (nowyKolor)
     {
-        document.write(`Czołg został przemalowany na kolor ${nowyKolor} z ${this.kolor}`)
+        document.write(`Czołg został przemalowany na kolor ${nowyKolor} z koloru ${this.kolor}`)
         this.kolor = nowyKolor;
     }
 
@@ -26,11 +26,11 @@ class Czolg {
             document.write("Czołg nie może wystrzelić ze względu na brak amunicji. Doładuj i spróbuj ponownie! <br>");
         }
     }
-    doladuj = function (iloscAmunicjiDoladowanej)
+    doladuj = function (DodaneAmmo)
     {
-        this.Ammunicja = iloscAmunicjiDoladowanej + 1;
-        document.write(`Ilość amunicji w czołgu wzrosła z ${this.Ammunicja} na ${this.Ammunicja + iloscAmunicjiDoladowanej} <br>`)
-
+        DodaneAmmo = 1
+        document.write(`Ilość amunicji w czołgu wzrosła z ${this.Ammunicja} na ${this.Ammunicja + DodaneAmmo} <br>`)
+        this.Ammunicja += 1;
     }
 }
 
@@ -42,5 +42,8 @@ czolg.info();
 czolg.strzal();
 czolg.info();
 czolg.doladuj();
-czolg.info()
-czolg.koloruj("rozowy");
+czolg.info();
+czolg.doladuj()
+czolg.strzal();
+czolg.info();
+czolg.koloruj("Różowy");
