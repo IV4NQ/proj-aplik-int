@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wartości pól formularza</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.2/css/bulma.min.css">
+</head>
+<body>
+<section class="section">
+    <div class="container">
+        <h1 class="title">
+            Wartości pól formularza
+        </h1>
+
+        <div class="columns">
+            <div class="column is-half">
+                <form action="#" id="myForm">
+                    <div class="field">
+                        <input class="input" type="text" name="firstName" value="Jan">
+                    </div>
+
+                    <div class="field">
+                        <input class="input" type="text" name="lastName">
+                    </div>
+
+                    <div class="select field">
+                        <select name="subject">
+                            <option value="pytanie">Pytanie</option>
+                            <option value="prosba">Prośba</option>
+                            <option value="zgloszenie">Zgłoszenie</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <textarea class="textarea" name="message"></textarea>
+                    </div>
+                    <div class="field">
+                        <label class="checkbox">
+                            <input type="checkbox" name="remember">
+                            Zapamiętaj mnie
+                        </label>
+                    </div>
+                    <div class="field">
+                        <button class="button">Wyślij</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+<section>
+    <div class="container" id="wynik">
+
+    </div>
+</section>
+
+<script src="main.js"></script>
+</body>
+</html>
