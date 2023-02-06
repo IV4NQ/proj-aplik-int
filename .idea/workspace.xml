@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/zadania po 30/Zadanie T30a - kolorowe obramowanie obrazu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/Zadanie T30a - kolorowe obramowanie obrazu/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/Zadanie T30a - kolorowe obramowanie obrazu/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projekty - aplikacje int.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00 test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00 test/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00 test/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 operacje matematyczne/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 operacje matematyczne/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 operacje matematyczne/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 powitanie z formularzem/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 powitanie z formularzem/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 powitanie z formularzem/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/.idea/04 oblicznie pola i obwodu prostokata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 oblicznie pola i obwodu prostokata/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/.idea/05 srednia aretmetyczna 4 liczb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 srednia aretmetyczna 4 liczb/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 iloraz 2 liczb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 iloraz 2 liczb/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 iloraz 2 liczb/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 różnica iloczyn i iloraz/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 różnica iloczyn i iloraz/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 różnica iloczyn i iloraz/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 zadanie 2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 zadanie 2/scrirpt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07 zadanie 2/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 oblicz wyrazenie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 oblicz wyrazenie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 oblicz wyrazenie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/103 zadanie - BMI/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/103 zadanie - BMI/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 obliczanie procentu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 obliczanie procentu/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 obliczanie procentu/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 wartosci pseudolosowe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 wartosci pseudolosowe/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 wartosci pseudolosowe/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 tabliczka mnozenia/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14 tabliczka mnozenia/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.2 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.2 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.3 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/21.3 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33 warunek/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33 warunek/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/33 warunek/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 zadanie warunkowe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/34 zadanie warunkowe/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 zadanie warunkowe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/35 zadanie warunkowe/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/36 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/37 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/37 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38 wieksza z 2 liczb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/38 wieksza z 2 liczb/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/43 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/44 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/47 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/59 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/60 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/82 zadanie/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/87 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/87 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/instrukcja.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/lacznik.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/lacznik_miedzystronny.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/podprogram.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/start.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/stop.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/strzalka.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/warunek.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/wczytaj.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/img/wyswietkl.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01 Zasady Programowania/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T13 biblioteki jezykow skryptowych/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T13 biblioteki jezykow skryptowych/sketch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T221 funkcje/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T221 funkcje/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T222 zadanie/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T222 zadanie/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T223/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T223/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T224/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T224/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T224/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T225/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T225/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 Parsowanie daty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 Parsowanie daty/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 formatowanie daty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 formatowanie daty/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 funkcje wbudowane/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T24 funkcje wbudowane/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T25 OBIEKTY/Przyklad 3_44/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/T25 OBIEKTY/przyklad 3_46/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie 83 - jedynki w przekątnej/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zadanie 83 - jedynki w przekątnej/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class odc i pkt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class odc i pkt/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dodawanie rzewczy do html js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dodawanie rzewczy do html js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom js i html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom js i html/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/klasy css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/klasy css/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liniowy css/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/liniowy css/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obiekt globalny teddt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obiekt globalny teddt/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projekty - aplikacje int.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_11/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_11/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_12/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_13/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_13/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_14/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_14/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_15/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_15/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_16/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_17/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_18/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_18/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_19/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_2/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_20/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_21/incex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_22/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_23/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_24/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_25/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_26/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_27/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_28/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_28/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_29/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_29/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_3/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_30/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_31/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_32/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_32/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_33/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_34/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_35/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_36/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_36/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_37/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_38/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_38/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_39/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_39/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_4/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_40/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_40/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_41/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_42/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_42/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_43/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_43/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_44/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_45/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_45/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_46/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_46/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_47/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_47/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_48/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_48/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_49/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_49/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_50/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_50/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_51/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_51/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_52/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_52/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_53/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_54/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_54/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_55/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_55/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_56/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_56/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_57/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_57/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_58/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_58/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_59/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_59/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_6/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_60/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_60/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_61/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_61/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_62/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_62/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_63/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_63/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_64/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_64/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_65/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_65/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_66/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_66/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_67/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_67/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_68/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_69/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_7/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_7/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_70/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_71/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_71/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_72/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_72/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_73/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_73/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_74/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_74/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_75/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_76/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_77/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_78/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_79/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_8/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_8/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_80/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_80/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_81/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_81/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_82/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_83/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_84/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_85/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_85/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_86/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_87/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_88/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_89/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_9/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_9/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_90/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_91/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_91/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_92/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_93/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady z podrecznika/przyklad 3_94/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/przyklady/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/relacje iedzy elementami/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/relacje iedzy elementami/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t24 Porownywanie daty/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/t24 Porownywanie daty/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test 01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test 01/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test 01/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wartosci pol formularzy/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wartosci pol formularzy/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie 08 i 09.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie 85 n liczb pseudolosowych/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie 85 n liczb pseudolosowych/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie obiektowe czolg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadanie obiektowe czolg/script.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KaFFrUMYbnUBvJUPjbYMV65Ecw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="" />
+      <created>1674204685847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674204685847</updated>
+      <workItem from="1674204687067" duration="54000" />
+      <workItem from="1674206784697" duration="3000" />
+      <workItem from="1674461000151" duration="4410000" />
+      <workItem from="1674560576799" duration="2410000" />
+      <workItem from="1674807895225" duration="866000" />
+      <workItem from="1675065187161" duration="5038000" />
+      <workItem from="1675165480291" duration="2191000" />
+      <workItem from="1675414305517" duration="2190000" />
+      <workItem from="1675670112788" duration="4442000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1674466213895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674466213895</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1674563105758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674563105758</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1674808750274</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674808750274</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1675065487743</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675065487743</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1675070903173</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675070903173</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1675167855603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675167855603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1675416502044</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675416502044</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1675673852495</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675673852500</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+</project>

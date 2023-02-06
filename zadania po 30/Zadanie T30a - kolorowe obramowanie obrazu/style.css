@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(90deg, rgba(0,36,31,1) 0%, rgba(38,109,47,1) 30%, rgba(58,52,54,1) 68%, rgba(255,0,61,1) 100%);
+}
+
+#framed-image {
+    border: 10px solid black;
+}
