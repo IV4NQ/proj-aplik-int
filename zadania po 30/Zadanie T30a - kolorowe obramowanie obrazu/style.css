@@ -5,3 +5,6 @@ body {
 #framed-image {
     border: 10px solid black;
 }
+h1,h2 {
+    color:white;
+}
