@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie T33</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Łukasz Iwaniec kl. 2ir_02 </h1>
+<h2>Zadanie T33 - Walidacja formularzy</h2>
+
+<p>Zapoznaj się z rozdziałem dotyczącym walidacji formularzy z podręcznika (podręcznik dostępny w materiałach do kursu).
+    <br>
+    Należy wykonać projekt, który zawiera formularz zmiany hasła.
+    <br>
+    Formularz powinien zawierać:
+    <br>
+    nazwę użytkownika (dowolne znaki, ale nie może być pusty),
+    <br>
+    adres e-mail (nie może być pusty i zawiera prawidłowy adres e-mail z domeną zspglogow.pl),
+    <br>
+    dwa pola do wprowadzenia hasła (minimum 8 znaków, litery małe i duże, cyfry i znaki specjalne).
+    <br>
+    przycisk z napisem "Zmień hasło".
+    <br>
+    Skrypt w przypadku prawidłowo wypełnionego formularza wyświetla dane na stronie (wiadomo, że to bez sensu, ale
+    chodzi o łatwe sprawdzenie, czy wszystko działa prawidłowo).
+    <br>
+    Na stronie powinny być również widoczne:
+    <br>
+    nazwa zadania,
+    imię nazwisko i klasa autora,
+    treść zadania.</p>
+
+<p id="NazUzytWypisz">Nazwa użytkownika: </p>
+<p id="emailWypisz">E-mail: </p>
+<p id="HasloWypisz">Hasło: </p>
+<hr>
+
+<section>
+    <h1>Zmiana hasła</h1>
+    <label for="NazUzytWprowadz">Nazwa użytkownika: </label>
+    <input style="display: block" type="text" id="NazUzytWprowadz">
+    <label for="emailWprowadz">E-mail: </label>
+    <input style="display: block" type="email" id="emailWprowadz">
+    <label for="HasloWprowadz">Hasło: </label>
+    <input style="display: block" type="password" id="HasloWprowadz">
+    <label for="Haslo2Wprowadz">Powtórz hasło: </label>
+    <input style="display: block" type="password" id="Haslo2Wprowadz">
+
+    <button>Zmień hasło</button>
+    <p id="blad"></p>
+</section>
+<section>
+    <script src="script.js"></script>
+</section>
+</body>
+</html>

@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: lightgrey;
+}
+
+section {
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input{
+    display: block;
+    width: 25%;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+button {
+    display: block;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0062cc;
+}
+
+#blad {
+    color: red;
+    font-weight: bold;
+}
+
+#NazUzytWypisz, #emailWypisz, #HasloWypisz {
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+    margin-right: 10px;
+}
