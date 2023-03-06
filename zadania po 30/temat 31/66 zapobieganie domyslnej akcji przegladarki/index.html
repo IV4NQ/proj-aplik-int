@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Zapobieganie domyślnej akcji przeglądarki</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.2/css/bulma.min.css">
+
+    <style>
+        #message {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <section class="section">
+        <div class="container">
+            <h1 class="title">
+                Zapobieganie domyślnej akcji przeglądarki
+            </h1>
+
+            <div class="columns">
+                <div class="column is-half">
+                    <form action="" id="myForm">
+                        <div class="field">
+                            <input class="input" type="text" id="firstName" name="firstName" placeholder="Podaj swoje imię">
+                        </div>
+
+                        <div class="field">
+                            <button class="button is-link">Wyślij</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <a href="#message" id="showMessage">Pokaż wiadomość</a>
+
+            <div id="message" class="notification is-link mt-3">Ukryta wiadomość</div>
+        </div>
+    </section>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/Zadanie T34 - zadania powtórkowe/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie T34 - zadania powtórkowe/zadanie1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie T34 - zadania powtórkowe/zadanie2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie T34 - zadania powtórkowe/zadanie3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zadanie T34 - zadania powtórkowe/zadanie4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t34a schematy/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t34a schematy/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t34b podatek/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t34b podatek/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t34b podatek/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -34,16 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/2ir02/WebstormProjects/proj-aplik-int/zadania po 30/t34b podatek",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\2ir02\WebstormProjects\proj-aplik-int\zadania po 30\t34b podatek" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +74,7 @@
       <workItem from="1676019088575" duration="2437000" />
       <workItem from="1677484411344" duration="4926000" />
       <workItem from="1677833228382" duration="2568000" />
-      <workItem from="1678089688446" duration="634000" />
+      <workItem from="1678089688446" duration="3786000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1674466213895</created>
@@ -175,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677489798722</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="commit">
+      <created>1678090492434</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678090492434</updated>
+    </task>
+    <task id="LOCAL-00017" summary="commit">
+      <created>1678090657056</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1678090657056</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

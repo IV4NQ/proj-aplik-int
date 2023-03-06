@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+}
+#out{
+    color: cyan;
+}
