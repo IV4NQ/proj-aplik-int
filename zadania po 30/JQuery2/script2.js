@@ -1,0 +1,1 @@
+$("div#box").attr("hidden",true)

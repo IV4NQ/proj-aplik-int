@@ -1,0 +1,22 @@
+
+#box {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    text-align: center;
+
+}
+.thing {
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #3DB3D6;
+    text-align: center;
+    text-align-all: center;
+}
+button {
+    background-color: darkred;
+    color: white;
+    outline: black 2px solid;
+    padding: 10px;
+}

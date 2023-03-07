@@ -1,0 +1,1 @@
+$("div.thing").attr("hidden",true)
