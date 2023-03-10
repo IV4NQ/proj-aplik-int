@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+#menu {
+    float:left;
+    background-color: lightcoral;
+    width: 30%;
+    height: 20vh;
+}
+#menuNapis{
+    margin-left: 10px;
+}
+li{
+    padding: 5px;
+    margin-left: 10px;
+}
+#header {
+    float:left;
+    background-color: darkred;
+    width: 70%;
+    height: 20vh;
+    color: white;
+    text-align: center;
+}
+#container {
+    float: left;
+    background-color: gray;
+    width: 65vw;
+    height: 75vh;
+    text-align: center;
+
+}
+#photo,img {
+    float:left;
+    width: 32vw;
+    height: 75vh;
+    text-align: center;
+}
+#footer {
+    clear: both;
+    height: 5vh;
+    width: 100vw;
+}
+
