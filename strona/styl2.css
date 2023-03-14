@@ -26,6 +26,12 @@ body {
     height: 322px;
     text-align: left;
 }
+#godziny_otwarcia td {
+    border: 1px solid olivedrab;
+}
+#godziny_otwarcia {
+    width: 90%;
+}
 #prawy {
     float: left;
     background-color: rgb(173, 20, 87);

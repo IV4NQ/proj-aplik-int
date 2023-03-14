@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/strona/obliczenia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strona/stacja.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/strona/styl2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strona/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strona/obliczenia.html" beforeDir="false" afterPath="$PROJECT_DIR$/strona/obliczenia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strona/stacja.html" beforeDir="false" afterPath="$PROJECT_DIR$/strona/stacja.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strona/styl2.css" beforeDir="false" afterPath="$PROJECT_DIR$/strona/styl2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +16,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -75,7 +76,8 @@
       <workItem from="1678089688446" duration="4968000" />
       <workItem from="1678189149701" duration="2544000" />
       <workItem from="1678438747816" duration="1766000" />
-      <workItem from="1678697717091" duration="1982000" />
+      <workItem from="1678697717091" duration="2091000" />
+      <workItem from="1678794215693" duration="2337000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1674466213895</created>
@@ -231,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678697784857</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="commit">
+      <created>1678699806225</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1678699806225</updated>
+    </task>
+    <task id="LOCAL-00024" summary="commit">
+      <created>1678699814248</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1678699814248</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
