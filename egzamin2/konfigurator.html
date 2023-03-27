@@ -16,21 +16,21 @@
     <select id="KolorCzcionki">
         <option value="White">White</option>
         <option value="Tan">Tan</option>
-        <option>Bisque</option>
-        <option>Plum</option>
+        <option value="Bisque">Bisque</option>
+        <option value="Plum">Plum</option>
     </select>
     <p>Podaj rozmiar czcionki w %</p>
-    <input type="text" name="nazwa" value="100%">
+    <input id ="rozmiar" type="text" value="100%">
     <p>Czy rysunek ma mieć ramkę?</p>
-    <input type="checkbox" id="ramka">
+    <input type="checkbox" id="ramka" checked>
     <label for="ramka">Rysuj ramkę</label>
     <p>Jaki jest typ punktora listy?</p>
     <label>
-        <input type="radio" name="punktor" value="dysk" checked>dysk
+        <input id="dysk" type="radio" name="punktor" value="dysk" checked>dysk
         <br>
-        <input type="radio" name="punktor" value="Kwadrat">Kwadrat
+        <input id="kwadrat" type="radio" name="punktor" value="Kwadrat">Kwadrat
         <br>
-        <input type="radio" name="punktor" value="Okrąg">Okrąg
+        <input id="okrag" type="radio" name="punktor" value="Okrąg">Okrąg
     </label>
 </div>
 <div id="prawy">
