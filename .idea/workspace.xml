@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/24a/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24a/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T24b/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T24b/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/T27b/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/T27b/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzamin2/konfigurator.html" beforeDir="false" afterPath="$PROJECT_DIR$/egzamin2/konfigurator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/egzamin2/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/egzamin2/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +47,16 @@
       <recent name="C:\Users\2ir02\WebstormProjects\proj-aplik-int\zadania po 30\t34b podatek" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/zadania po 30/T27b/script.js" working-dir="$PROJECT_DIR$/zadania po 30/T27b">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +91,8 @@
       <workItem from="1679299630754" duration="4414000" />
       <workItem from="1679647779343" duration="2106000" />
       <workItem from="1679900045761" duration="875000" />
-      <workItem from="1679903438340" duration="2329000" />
+      <workItem from="1679903438340" duration="2345000" />
+      <workItem from="1680000195368" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1674466213895</created>
@@ -276,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679304624441</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="commit">
+      <created>1679905790952</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679905790952</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
