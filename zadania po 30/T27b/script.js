@@ -39,13 +39,13 @@ for (i = 0; i < 7; i++){
 wynik.innerHTML += `Ilość liter A: ${IloscA}`
 
     let max = tab[0];
-    let maxIndex = 0;
+    let Index = 0;
     for (let i = 1; i < tab.length; i++) {
         if (tab[i] > max) {
-            maxIndex = i;
+            Index = i;
             max = tab[i];
         }
     }
 
-wynik.innerHTML += `<br> Numer wiersza z największą ilością B: ${maxIndex + 1}`;
+wynik.innerHTML += `<br> Numer wiersza z największą ilością B: ${Index + 1}`;
 
