@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t27c/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t32/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t32/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t32b/fryzura.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zadania po 30/t32b/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania po 30/T27b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/zadania po 30/T27b/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/zadania po 30/T27b/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/zadania po 30/T27b/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zadania po 30/t27/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/zadania po 30/t27/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -25,6 +33,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KaFFrUMYbnUBvJUPjbYMV65Ecw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,7 +102,8 @@
       <workItem from="1679900045761" duration="875000" />
       <workItem from="1679903438340" duration="2345000" />
       <workItem from="1680000195368" duration="2492000" />
-      <workItem from="1680248958723" duration="2468000" />
+      <workItem from="1680248958723" duration="2485000" />
+      <workItem from="1680504744852" duration="4920000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1674466213895</created>
@@ -303,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680251420621</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="commit">
+      <created>1680251454407</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680251454407</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

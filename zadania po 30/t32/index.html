@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie T32</title>
+<body>
+<header>
+    <h1>Zadanie T32</h1>
+    <h2>Autor: Łukasz Iwaniec 2ir_02 </h2>
+    <hr>
+</header>
+<p>
+    Zadanie polega na stworzeniu aplikacji JavaScript według wzoru pokazanego na grafice. Zwróć uwagę, że nagłówek h1
+    "Ustalenie wartości za pomocą suwaka" - zmienia kolor na taki, jaki został wybrany przez użytkownika w polu "Ocena
+    kolorem". Również łańcuch znaków "ocena kolorem", powinien być zapisany w wybranym kolorze.
+</p>
+
+<input type="range" id="ocena" name="ocena" min="0" max="15">
+<label for="ocena">Poziom zadowolenia obsługą w skali od 0 do 15</label>
+<br>
+<input type="date" id="data" name="data">
+<br>
+<label for="data"> data wykonania usługi</label>
+<br>
+<input type="color" id="kolor" name="kolor">
+<br>
+<label for="kolor">Ocena kolorem</label>
+<br>
+<button id="button">Działaj</button>
+
+
+<section>
+    <p id="wynik">...</p>
+    <script src="script.js"></script>
+</section>
+</body>
+</html>
+
+

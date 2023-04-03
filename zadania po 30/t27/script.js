@@ -1,14 +1,15 @@
 const wynik = document.querySelector('#wynik')
 const btn = document.querySelector('#button')
 
-btn.addEventListener('click', function () {
+
     let tab = [
         [0, 0, 0],
         [0, 0, 0],
         [0, 0, 0]
     ]
 
-    function zadanie(tab) {
+    function przekatne(tab) {
+
         wynik.innerHTML = `Tablica: <br>`
         for (let i = 0; i < 3; i++) {
             for (let j = 0; j < 3; j++) {
@@ -39,6 +40,6 @@ btn.addEventListener('click', function () {
         }
     }
 
-    zadanie(tab)
-
+btn.addEventListener('click', function () {
+    przekatne(tab)
 })

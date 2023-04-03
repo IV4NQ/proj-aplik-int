@@ -1,4 +1,6 @@
+const btn = document.querySelector('#button')
 
+btn.addEventListener('click', function () {
 
 var letters = ['a', 'b', 'c', 'd', 'e'];
 
@@ -15,6 +17,7 @@ let tab = [
 let IloscA = 0
 let IloscB = 0
 let BWiersze = [];
+
 for (i = 0; i < 7; i++){
     IloscB = 0;
     for(j = 0; j<7; j ++){
@@ -23,12 +26,13 @@ for (i = 0; i < 7; i++){
         if(letter === 'a'){
             IloscA++
         }
-        if(letter === 'b'){
+        if(tab[i][j] === 'b'){
             IloscB ++
         }
     }
     BWiersze[i] = IloscB;
 }
+
 wynik.innerHTML = ``
 for (i = 0; i < 7; i++){
     for(j = 0; j<7; j ++){
@@ -38,14 +42,15 @@ for (i = 0; i < 7; i++){
 }
 wynik.innerHTML += `Ilość liter A: ${IloscA}`
 
-    let max = tab[0];
+    let last = BWiersze[0];
     let Index = 0;
-    for (let i = 1; i < tab.length; i++) {
-        if (tab[i] > max) {
+    for (let i = 1; i < BWiersze.length; i++) {
+        if (BWiersze[i] > last) {
             Index = i;
-            max = tab[i];
+            last = BWiersze[i];
         }
     }
 
 wynik.innerHTML += `<br> Numer wiersza z największą ilością B: ${Index + 1}`;
 
+})

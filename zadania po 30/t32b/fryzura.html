@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Zadanie T32b</title>
+<body>
+<header>
+  <h1>Zadanie T32b</h1>
+  <h2>Autor: Łukasz Iwaniec 2ir_02 </h2>
+  <hr>
+</header>
+<p>
+  Utwórz stronę html o nazwie fryzura.html. Strona powinna posiadać następującą zawartość:
+  <br>
+  <img src="strzyżenie.jpg">
+  <br>
+  Wymagania dotyczące skryptu:
+  <br>
+  Napisany w języku wykonywanym po stronie przeglądarki
+  <br>
+  Uruchamia się po wciśnięciu przycisku na stronie fryzura.html
+  <br>
+  Podaje cenę strzyżenia w zależności od wyboru dokonanego przez pola radio zgodnie z cennikiem w tabeli
+  ‒ Wyświetla wynik działania pod przyciskiem według wzoru: „Cena strzyżenia: wartosc gdzie wartość oznacza cenę
+  strzyżenia dla wskazanej długości włosów.
+  <br>
+  Długość włosów/ Cena
+  <br>
+  Krótkie 25 | Średnie 30 | Półdługie 40 | Długie 50
+</p>
+
+
+<input type="radio" name="dlugosc" class="dlugosc" value="krotkie"> Krótkie <br>
+<input type="radio" name="dlugosc" class="dlugosc" value="srednie"> Średnie <br>
+<input type="radio" name="dlugosc" class="dlugosc" value="poldlugie"> Półdługie <br>
+<input type="radio" name="dlugosc" class="dlugosc" value="dlugie"> Długie <br><br>
+<button id="button">Oblicz cenę</button>
+
+<section>
+  <p id="wynik">...</p>
+  <script src="script.js"></script>
+
+</section>
+</body>
+</html>
+
+
+
