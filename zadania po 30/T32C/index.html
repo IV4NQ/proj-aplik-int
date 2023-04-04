@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zadanie T32c</title>
+    <link rel="stylesheet" href="style.css">
+<body>
+<header>
+    <h1>Zadanie T32c</h1>
+    <h2>Autor: Łukasz Iwaniec 2ir_02 </h2>
+    <hr>
+</header>
+<p>
+    Pobieranie danych za pomocą formularza
+    <br>
+    Zapoznaj się z rozdziałem podręcznika. Opracuj własny formularz i skrypt pobierający dane. Do wykonania zadania użyj
+    różne komponenty formularzy. Przykładowy wygląd formularza pokazany jest na załączonej grafice.
+</p>
+<h2>Formularz konkursu "Podrasuj swoje buty!"</h2>
+<p>Chcesz zamienić swoje stare trampki na nową parę zaprojektowanych przez siebie butóe Fordefield? Napisz nam, dalczego
+    sądzisz, że powinieneś pożeganć się ze swoimi wysłużonymi butami, a być może zostaniesz jednym z laureatów konkursu!</p>
+<section>
+    <fieldset id="DaneField">
+        <legend>Podstawowe dane</legend>
+        <section id="DaneSection">
+        <label for="imie">Imie i nazwisko</label>
+        <input type="text" id="imie" name="imie">
+        <br>
+        <label for="Email">E-mail</label>
+        <input type="text" id="Email" name="Email">
+        <br>
+        <label for="Telefon">Telefon</label>
+        <input type="text" id="Telefon" name="Telefon">
+        <br>
+        <label for="opis">Moje buty są TAKIE stare</label>
+        <br>
+        <textarea id="opis" name="opis" rows="4" cols="50">Nie więcej niż 300 znaków</textarea>
+        </section>
+    </fieldset>
+</section>
+<h2>Zaprojektuj własne trampki</h2>
+<section>
+    <fieldset>
+        <legend>Własny projekt butów</legend>
+        <fieldset id="kolor">
+            <legend>Kolor <em>(wybierz jeden)</em></legend>
+            <input type="radio" id="czerwony" name="czerwony" class="kolorButa">
+            <label for="czerwony">czerwony</label>
+
+            <br>
+            <input type="radio" id="niebieski" name="niebieski" class="kolorButa">
+            <label for="niebieski">niebieski</label>
+
+            <br>
+            <input type="radio" id="czarny" name="czarny" class="kolorButa">
+            <label for="czarny">czarny</label>
+
+            <br>
+            <input type="radio" id="srebrny" name="srebrny" class="kolorButa">
+            <label for="srebrny">srebrny</label>
+
+        </fieldset>
+        <section>
+            <fieldset id="opcje">
+                <legend>Opcje <em>(możesz wybrać kilka)</em></legend>
+                <input type="checkbox" id="sznurowki" name="sznurowki" class="opcjeButa">
+                <label for="sznurowki">Błyszczące sznurówki</label>
+                <br>
+
+                <input type="checkbox" id="logo" name="logo" class="opcjeButa">
+                <label for="logo">Metalowe logo</label>
+                <br>
+
+                <input type="checkbox" id="podeszwy" name="podeszwy" class="opcjeButa">
+                <label for="podeszwy">Świecące podeszwy</label>
+                <br>
+
+                <input type="checkbox" id="MP3" name="MP3" class="opcjeButa">
+                <label for="MP3">Odtwarzanie MP3</label>
+            </fieldset>
+        </section>
+        <section>
+            <fieldset id="rozmiar">
+                <legend>Rozmiar</legend>
+                Rozmiar zgodny ze standardowymi numerami butów
+                <select>
+                    <option>36</option>
+                    <option>37</option>
+                    <option>38</option>
+                    <option>39</option>
+                    <option>40</option>
+                    <option>41</option>
+                    <option>42</option>
+                    <option>43</option>
+                    <option>44</option>
+                    <option>45</option>
+                </select>
+            </fieldset>
+        </section>
+    </fieldset>
+</section>
+
+<section>
+    <br>
+    <button id="podrasuj">Podrasuj swoje buty</button>
+    <button id="reset">Resetuj</button>
+</section>
+
+<section>
+    <script src="script.js"></script>
+</section>
+</body>
+</html>
+
