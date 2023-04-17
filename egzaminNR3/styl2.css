@@ -1,0 +1,44 @@
+#container {
+    font-family: sans-serif;
+    background-color: Linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+#interfejs li {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 5px;
+    float: left;
+    color: white;
+}
+#LeftBanner, #RightBanner {
+    float: left;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+a {
+    color: #aaa;
+
+}
+#main {
+    clear: both;
+    padding: 20px;
+}
+#footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+table {
+    margin: 40px;
+}
+tr td {
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}
