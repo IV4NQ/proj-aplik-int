@@ -6,12 +6,12 @@
     width: 90%;
 }
 #interfejs li {
-    display: block;
-    list-style: none;
-    margin: 0;
+    display: inline-block;
+    margin: 10px;
     padding: 5px;
-    float: left;
-    color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
 }
 #LeftBanner, #RightBanner {
     float: left;
@@ -22,7 +22,10 @@
 }
 a {
     color: #aaa;
-
+    text-decoration: none;
+}
+a:hover {
+    color: white;
 }
 #main {
     clear: both;
@@ -34,10 +37,10 @@ a {
     padding: 20px;
     text-align: center;
 }
-table {
+#WysKolor {
     margin: 40px;
 }
-tr td {
+#WysKolor tr td {
     padding: 30px;
     text-align: center;
     font-weight: bold;
