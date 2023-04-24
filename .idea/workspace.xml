@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/egzamin4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzamin4/kontakt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzamin4/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/egzamin4/styl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="committ" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +98,7 @@
       <workItem from="1681714415704" duration="4630000" />
       <workItem from="1681814628335" duration="2473000" />
       <workItem from="1682063301878" duration="2104000" />
-      <workItem from="1682319286802" duration="4129000" />
+      <workItem from="1682319286802" duration="4443000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1674466213895</created>
@@ -379,7 +373,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681817110624</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="committ">
+      <created>1682324758241</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1682324758241</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -398,6 +399,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="committ" />
+    <option name="LAST_COMMIT_MESSAGE" value="committ" />
   </component>
 </project>
