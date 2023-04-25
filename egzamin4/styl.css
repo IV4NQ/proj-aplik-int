@@ -21,16 +21,6 @@
     width: 310px;
     padding: 10px;
 }
-.main {
-    float: left;
-    width: 310px;
-    padding: 10px;
-}
-.main {
-    float: left;
-    width: 310px;
-    padding: 10px;
-}
 #footer {
     clear: both;
     background-color: #66CCFF;
@@ -55,4 +45,7 @@ h2, h3 {
 }
 #wyslij {
     background-color: #00FF00;
+}
+#wynik {
+    display: block;
 }
