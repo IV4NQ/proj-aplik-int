@@ -1,0 +1,51 @@
+* {
+    background-color:  #99FFCC;
+}
+#container {
+    width: 1000px;
+    margin: auto;
+}
+#baner {
+    background-color: #99FF66;
+    height: 200px;
+}
+#menu {
+    background-color: #99FF66;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.main {
+    float: left;
+    width: 310px;
+    padding: 10px;
+}
+#footer {
+    clear: both;
+    background-color: #66CCFF;
+    color: #006666;
+    text-align: right;
+    height: 30px;
+    padding: 20px;
+}
+
+a {
+    background-color: #99FF66;
+    color: #006666;
+    margin: 50px;
+    font-size: 200%;
+    text-decoration: none;
+}
+h2, h3 {
+    text-align: center;
+}
+#reset {
+    background-color: #FF0000;
+}
+#wyslij {
+    background-color: #00FF00;
+}
+#wynik {
+    display: block;
+}

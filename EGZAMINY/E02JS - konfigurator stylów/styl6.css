@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Georgia;
+}
+
+#lewy {
+    float: left;
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 30%;
+}
+
+#Indigo {
+    background-color: indigo;
+}
+
+#SteelBlue {
+    background-color: SteelBlue;
+}
+
+#Olive {
+    background-color: olivedrab;
+}
+
+#prawy {
+    float: left;
+    background-color: maroon;
+    color: white;
+    height: 600px;
+    width: 70%;
+    overflow: auto;
+}
+
+#gibraltar {
+    float: left;
+    padding: 10px;
+    border: solid 1px white;
+}
+
+#lista {
+    float: left;
+}
+
+#lorem {
+    clear: both;
+    padding: 10px;
+}
+
+footer {
+    clear: both;
+    background-color: DimGray;
+    color: white;
+}

@@ -1,0 +1,47 @@
+#container {
+    font-family: sans-serif;
+    background-color: Linen;
+    color: #222;
+    margin: auto;
+    width: 90%;
+}
+#interfejs li {
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+}
+#LeftBanner, #RightBanner {
+    float: left;
+    background-color: black;
+    color: white;
+    width: 50%;
+    height: 100px;
+}
+a {
+    color: #aaa;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+}
+#main {
+    clear: both;
+    padding: 20px;
+}
+#footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+#WysKolor {
+    margin: 40px;
+}
+#WysKolor tr td {
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+}

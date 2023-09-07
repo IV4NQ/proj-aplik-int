@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Pogotowie komputerowe</title>
+    <link rel="stylesheet" href="styl.css">
+    <link rel="shortcut icon" href="favicon.png"/>
+</head>
+<body>
+<div id="container">
+
+    <section>
+        <div id="baner">
+            <img src="animacja.gif">
+        </div>
+    </section>
+
+    <section>
+        <div id="menu">
+            <a href="index.html">O nas</a>
+            <a href="kontakt.html">Kontakt</a>
+        </div>
+    </section>
+
+    <section>
+        <div id="main1" class="main"></div>
+        <div id="main2" class="main">
+            <h3>Formularz kontaktowy</h3>
+            <table>
+                <form>
+                    <tr>
+                        <td>Imię:</td>
+                        <td><input type="text" id="imie"></td>
+                    </tr>
+                    <tr>
+                        <td>Nazwisko:</td>
+                        <td><input type="text" id="nazwisko"></td>
+                    </tr>
+                    <tr>
+                        <td>E-mail:</td>
+                        <td><input type="text" id="Email"></td>
+                    </tr>
+                    <tr>
+                        <td>Usługa:</td>
+                        <td>
+                            <select id="usluga">
+                                <option>naprawa komputera</option>
+                                <option>odzyskiwanie danych</option>
+                                <option> problemy z oprogramowaniem</option>
+                                <option> konfiguracja sieci LAN</option>
+                                <option>inne</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="checkbox" id="kopia" checked> <label for="kopia">Wyślij kopię
+                            wiadomości </label></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <button id="reset" type="reset">Resetuj</button>
+                            <button id="wyslij">Prześlij</button>
+                        </td>
+                    </tr>
+                </form>
+            </table>
+            <p id="wynik"></p>
+        </div>
+        <div id="main3" class="main"></div>
+    </section>
+
+    <div id="footer">
+        Autor: Łukasz Iwaniec
+    </div>
+    <script src="script.js"></script>
+</div>
+</body>
+</html>

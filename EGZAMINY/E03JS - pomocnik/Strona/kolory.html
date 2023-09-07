@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Pomocnik CSS</title>
+    <link rel="stylesheet" href="styl2.css">
+</head>
+<body>
+<div id="container">
+    <div id="LeftBanner">
+        <h1>Pomocnik CSS</h1>
+    </div>
+    <div id="RightBanner">
+        <ul id="interfejs">
+            <li><a href="kolory.html">Kolory </a></li>
+            <li><a href="czcionki.html">Czcionki </a></li>
+            <li><a href="style.html">Style CSS </a></li>
+            <li><a href="https://www.w3schools.com/css/" target="_blank">Pomoc </a></li>
+        </ul>
+    </div>
+    <div id="main">
+        <h2>Podaj składową H koloru w kodzie HSL</h2>
+        <p>0 do 30 czerwienie, do 60 żółcie, do 150 zielenie, do 250 niebieskie, do 360 fiolet i purpura</p>
+        <img src="kolory.jpg" alt="Przestrzeń barw HSL"/>
+        <br>
+        <input type="number" name="InputKolor" id="InputKolor" min="0" max="360" placeholder="0-360">
+        <button id="GenerujPalete">Generuj paletę</button>
+        <table id="WysKolor">
+            <tr>
+                <td colspan="4" id="kolor1">Kolor Główny</td>
+            </tr>
+            <tr>
+                <td id="kolor2">Kolor 2</td>
+                <td id="kolor3">Kolor 3</td>
+                <td id="kolor4">Kolor 4</td>
+                <td id="kolor5">Kolor 5</td>
+            </tr>
+        </table>
+    </div>
+    <div id="footer">Autor: Łukasz Iwaniec</div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
