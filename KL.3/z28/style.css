@@ -1,0 +1,16 @@
+body {
+    background-color: lightgray;
+
+}
+#tresc {
+    padding-top: 20px;
+    background-color: #bfbfbf;
+    margin: 0px;
+}
+#button {
+    margin-left: 20px;
+    padding: 5px;
+}
+#wynik {
+    background-color: #bfbfbf;
+}

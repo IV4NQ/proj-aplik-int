@@ -1,0 +1,9 @@
+body {
+    background-color: lightgray;
+
+}
+#tresc {
+    padding-top: 20px;
+    background-color: rgba(25,27,13,0.26);
+    margin: 0px;
+}
