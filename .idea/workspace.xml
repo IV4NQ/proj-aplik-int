@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="committ" />
+    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="committ">
+      <change afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/obraz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/styl4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/zamowienia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -30,23 +36,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/3ip02/WebstormProjects/proj-aplik-int/KL.3",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/3ip02/WebstormProjects/proj-aplik-int/KL.3&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.3" />
       <recent name="C:\Users\2ir02\WebstormProjects\proj-aplik-int\zadania po 30\t34b podatek" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.3\egzaminy\E07JS" />
       <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.3\z28" />
       <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.2" />
     </key>
@@ -114,14 +121,9 @@
       <workItem from="1685445220764" duration="3000" />
       <workItem from="1685948023177" duration="4000" />
       <workItem from="1694003905729" duration="245000" />
-      <workItem from="1694070058844" duration="4389000" />
-    </task>
-    <task id="LOCAL-00002" summary="commit">
-      <created>1674563105758</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1674563105758</updated>
+      <workItem from="1694070058844" duration="4569000" />
+      <workItem from="1694608015595" duration="582000" />
+      <workItem from="1694674394560" duration="4630000" />
     </task>
     <task id="LOCAL-00003" summary="commit">
       <created>1674808750274</created>
@@ -459,7 +461,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694074505640</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="committ">
+      <created>1694074995744</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1694074995744</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

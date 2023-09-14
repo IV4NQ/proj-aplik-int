@@ -1,0 +1,57 @@
+* {
+    font-family: Verdana;
+    text-align: center;
+}
+
+#baner {
+    background-color: DarkGreen;
+    color: white;
+    padding: 5px;
+}
+
+#lewy {
+    background-color: PaleGreen;
+    width: 30%;
+    height: 500px;
+    float: left;
+}
+
+#prawy {
+    background-color: Honeydew;
+    width: 70%;
+    height: 500px;
+    padding-top: 100px;
+    float: left;
+}
+
+#stopka {
+    clear: both;
+    background-color: PaleGreen;
+    padding: 3px;
+}
+
+#zamowienia, td {
+    border: solid 1px DarkGreen;
+    border-collapse: collapse;
+}
+
+#zamowienia {
+    width: 95%;
+    margin: auto;
+}
+
+#zamowienia th {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.aktualizuj, .zamow {
+    background-color: DarkGreen;
+    color: white;
+    padding: 5px;
+}
+.aktualizuj:hover, .zamow:hover{
+    background-color: Honeydew;
+    color: DarkGreen;
+}
