@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="committ" />
+    <list default="true" id="19fb180b-cd7e-4923-bb0c-df944b772e49" name="Changes" comment="committ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/styl4.css" beforeDir="false" afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/styl4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/zamowienia.html" beforeDir="false" afterPath="$PROJECT_DIR$/KL.3/egzaminy/E07JS/zamowienia.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,13 +41,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/3ip02/WebstormProjects/proj-aplik-int/KL.3&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/3ip02/WebstormProjects/proj-aplik-int/KL.3/egzaminy/E07JS&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.3\egzaminy\E07JS" />
       <recent name="C:\Users\3ip02\WebstormProjects\proj-aplik-int\KL.3" />
       <recent name="C:\Users\2ir02\WebstormProjects\proj-aplik-int\zadania po 30\t34b podatek" />
     </key>
@@ -118,13 +124,8 @@
       <workItem from="1694070058844" duration="4569000" />
       <workItem from="1694608015595" duration="582000" />
       <workItem from="1694674394560" duration="4793000" />
-    </task>
-    <task id="LOCAL-00004" summary="commit">
-      <created>1675065487743</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1675065487743</updated>
+      <workItem from="1694680147695" duration="23000" />
+      <workItem from="1694771384335" duration="1934000" />
     </task>
     <task id="LOCAL-00005" summary="commit">
       <created>1675070903173</created>
@@ -462,7 +463,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694680100957</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="committ">
+      <created>1694680161226</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1694680161226</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

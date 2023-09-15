@@ -24,8 +24,7 @@
     float: left;
 }
 
-#stopka {
-    clear: both;
+footer {
     background-color: PaleGreen;
     padding: 3px;
 }
@@ -40,7 +39,7 @@
     margin: auto;
 }
 
-#zamowienia th {
+#zamowienia th,td {
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 0px;
